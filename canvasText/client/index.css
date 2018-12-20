@@ -1,0 +1,21 @@
+canvas {
+    border: 1px solid #cccccc;
+    vertical-align: middle;
+}
+
+.canvas-container {
+    position: relative;
+    display: inline-block;
+    margin: 30px 20px;
+}
+
+.text {
+    color: #fff;
+    background-color: #0000;
+    box-shadow: none;
+    border: none;
+    width: 50px;
+    line-height: 20px;
+    height: 20px;
+    position: absolute;
+}
